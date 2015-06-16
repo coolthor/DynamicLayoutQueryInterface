@@ -1,0 +1,7 @@
+D:\GitRepo\working_tool\Demo(自動組SQL字串)(開發中)\Demo\bin\Debug\Demo.exe
+D:\GitRepo\working_tool\Demo(自動組SQL字串)(開發中)\Demo\bin\Debug\Demo.pdb
+D:\GitRepo\working_tool\Demo(自動組SQL字串)(開發中)\Demo\obj\x86\Debug\Demo.Form1.resources
+D:\GitRepo\working_tool\Demo(自動組SQL字串)(開發中)\Demo\obj\x86\Debug\Demo.Properties.Resources.resources
+D:\GitRepo\working_tool\Demo(自動組SQL字串)(開發中)\Demo\obj\x86\Debug\Demo.csproj.GenerateResource.Cache
+D:\GitRepo\working_tool\Demo(自動組SQL字串)(開發中)\Demo\obj\x86\Debug\Demo.exe
+D:\GitRepo\working_tool\Demo(自動組SQL字串)(開發中)\Demo\obj\x86\Debug\Demo.pdb
